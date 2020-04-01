@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "tutorial-angular7-multilenguaje": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tutorial-angular7-multilenguaje"
+    }
+  },
+  "defaultProject": "tutorial-angular7-multilenguaje",
+  "cli": {
+    "analytics": "929636ff-f73f-4606-9d51-6179be2a8bdb"
+  }
 }
